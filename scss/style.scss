@@ -1,10 +1,10 @@
-@import "variables";
-@import "mixins";
-@import "animations";
+@import "_variables.scss";
+@import "_mixins.scss";
+@import "_animations.scss";
 
-@import "globals" ;
-@import "header" ;
-@import "hero";
-@import "feature";
-@import "article";
-@import "footer";
+@import "globals.scss" ;
+@import "_header.scss" ;
+@import "_hero.scss";
+@import "_feature";
+@import "_article";
+@import "_footer";
